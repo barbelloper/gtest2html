@@ -44,6 +44,3 @@ Finally open the file `output/index.html` in your favorite browser.
 [3]: https://jquery.com/
 [4]: http://johnpolacek.github.io/stacktable.js/
 
-[Screenshot1]: docs/screenshot1.png 
-[Screenshot2]: docs/screenshot2.png
-[Screenshot3]: docs/screenshot3.png
